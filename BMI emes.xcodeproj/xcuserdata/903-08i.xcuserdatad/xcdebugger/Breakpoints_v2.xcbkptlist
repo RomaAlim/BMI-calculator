@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "54265E46-5054-49C4-8D55-35182BD29C85"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF2014B5-8707-4C6E-9077-A29DF34853D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI emes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DF2014B5-8707-4C6E-9077-A29DF34853D4 - 959731a1a4f909c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_emes.ViewController.resultLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI emes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/903-08i/Desktop/29198/BMI%20emes/BMI%20emes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DF2014B5-8707-4C6E-9077-A29DF34853D4 - ebdeebdc7176f9fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_emes.ViewController.resultLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI emes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/903-08i/Desktop/29198/BMI%20emes/BMI%20emes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DF2014B5-8707-4C6E-9077-A29DF34853D4 - 35887d8b4ad1edcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_emes.ViewController.resultLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI emes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/903-08i/Desktop/29198/BMI%20emes/BMI%20emes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "DF2014B5-8707-4C6E-9077-A29DF34853D4 - b9f58cb3356ac061"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_emes.ViewController.resultLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BMI emes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/903-08i/Desktop/29198/BMI%20emes/BMI%20emes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "DF2014B5-8707-4C6E-9077-A29DF34853D4 - 855ea394996ea89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_emes.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_emes.ViewController"
+                  moduleName = "BMI emes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/903-08i/Desktop/29198/BMI%20emes/BMI%20emes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "DF2014B5-8707-4C6E-9077-A29DF34853D4 - 453afe6b560c0a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_emes.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_emes.ViewController&gt;"
+                  moduleName = "BMI emes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/903-08i/Desktop/29198/BMI%20emes/BMI%20emes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEC41835-2A28-42FD-B1A2-4A4D05CCD6C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI emes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
